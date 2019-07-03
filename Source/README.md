@@ -1,2 +1,2 @@
-# EjemplosC
+# Ejemplos en lenguaje C.
  
